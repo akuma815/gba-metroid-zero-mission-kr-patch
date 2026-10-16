@@ -1,0 +1,14 @@
+{
+  "src": "assets/screenshots/gba-metroid-zero-mission-kr-patch.png",
+  "caption": "한글 타이틀",
+  "kind": "runtime",
+  "width": 240,
+  "height": 160,
+  "source": "Games/Metroid - Zero Mission/qa/logs/title_ko/t2400_screen.png",
+  "sourceSHA256": "ea7dd80cd349bbde1afb55b7ee772a608247ac4100aa77356b927a525e524a2a",
+  "assetSHA256": "ea7dd80cd349bbde1afb55b7ee772a608247ac4100aa77356b927a525e524a2a",
+  "pixelSHA256": "877d4f4f1bff2443b8a6673daa121b17f521ca14eb8c365349cc0785bcd424dd",
+  "sourceNote": "title_ko Mesen 캡처",
+  "readmeAsset": "img/preview.png",
+  "displayNote": "title_ko Mesen 캡처"
+}

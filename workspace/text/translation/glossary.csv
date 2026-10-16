@@ -1,0 +1,46 @@
+﻿용어ID,영어,일본어,한국어,상태,대안,비고
+item.energy_tank,Energy Tank,エネルギータンク,에너지 탱크,approved,,
+item.missile_tank,Missile Tank,ミサイルタンク,미사일 탱크,approved,,
+item.super_missile,Super Missile,スーパーミサイル,슈퍼 미사일,approved,,
+item.power_bomb,Power Bomb,パワーボム,파워 봄,approved,,시리즈 관용 음차 '파워 봄' 으로 복귀(2026-08-20 사용자 결정). 앞서 '파워 폭탄' 의역을 썼으나 되돌렸다.
+item.long_beam,Long Beam,ロングビーム,롱 빔,approved,,
+item.charge_beam,Charge Beam,チャージビーム,차지 빔,approved,,
+item.ice_beam,Ice Beam,アイスビーム,아이스 빔,approved,,
+item.wave_beam,Wave Beam,ウェーブビーム,웨이브 빔,approved,,
+item.plasma_beam,Plasma Beam,プラズマビーム,플라즈마 빔,approved,,"번역 대상 127건에는 등장하지 않는다. 게임 내에서는 '정체를 알 수 없는 아이템'으로 먼저 획득하며, 해금 후 이름 텍스트의 위치는 미확인"
+item.bomb,Bomb,ボム,봄,approved,,시리즈 관용 음차 '봄' 으로 복귀(2026-08-20 사용자 결정). 앞서 계절 '봄' 과 동음이라는 이유로 '폭탄' 의역을 썼으나 되돌렸다.
+item.varia_suit,Varia Suit,バリアスーツ,배리어 슈트,approved,,
+item.gravity_suit,Gravity Suit,グラビティスーツ,그래비티 슈트,approved,,"번역 대상 127건에는 등장하지 않는다. 게임에서는 '정체를 알 수 없는 아이템'(msg_a:012/015/020)으로 먼저 획득하며, 해금 후 정식 이름 텍스트의 위치는 미확인이다"
+item.morph_ball,Morph Ball,モーフボール,모프볼,approved,,
+item.speed_booster,Speed Booster,スピードブースター,스피드 부스터,approved,,
+item.hi_jump,Hi-Jump,ハイジャンプ,하이 점프,approved,,
+item.screw_attack,Screw Attack,スクリューアタック,스크류 어택,approved,,
+item.power_grip,Power Grip,パワーグリップ,파워 그립,approved,,
+item.space_jump,Space Jump,スペースジャンプ,스페이스 점프,approved,,"번역 대상 127건에는 등장하지 않는다. 게임에서는 '정체를 알 수 없는 아이템'(msg_a:012/015/020)으로 먼저 획득하며, 해금 후 정식 이름 텍스트의 위치는 미확인이다"
+item.unknown,Unknown Item,なにか　わからない　アイテム,정체를 알 수 없는 아이템,approved,,원문이 '뭔가 알 수 없는' 뉘앙스라 축약형 '미확인 아이템'보다 원문에 가깝다. msg_a:012/015/020 에서 사용. 게임 후반 해금 시 실제 이름으로 바뀌는데 그 텍스트는 아직 못 찾았다
+char.samus,Samus Aran,サムス・アラン,사무스 아란,approved,,
+char.mother_brain,Mother Brain,マザーブレイン,마더 브레인,approved,,
+char.metroid,Metroid,メトロイド,메트로이드,approved,,
+char.chozo,Chozo,鳥人,조인족,approved,,
+char.space_pirate,Space Pirate,スペースパイレーツ,우주 해적,approved,,
+place.zebes,Planet Zebes,惑星ゼーベス,행성 제베스,approved,,
+place.brinstar,Brinstar,ブリンスタ,브린스타,approved,,
+place.kraid,Kraid,クレイド,크레이드,approved,,
+place.norfair,Norfair,ノルフェア,노페어,approved,,
+place.ridley,Ridley,リドリー,리들리,approved,,
+place.tourian,Tourian,ツーリアン,투리안,approved,,원문 가나가 ツーリアン 이라 투리안으로 음차. 커뮤니티 표기 투어리안과 다름
+place.crateria,Crateria,クレテリア,크레테리아,approved,,
+place.chozodia,Chozodia,チョウゾディア,초조디아,approved,,
+place.mother_ship,Mother Ship,うちゅうかいぞくせん,우주 해적선,approved,,일본어 가나판이 うちゅうかいぞくせん(우주해적선)이고 영어판만 Mother Ship 이다. 원문 기준을 따른다
+place.chozo_ruins,Chozo Ruins,ちょうじんいせき,조인족 유적,approved,,
+place.save_room,Save Room,セーブルーム,세이브 룸,approved,,
+place.recharge_room,Research Room,リチャージルーム,리차지 룸,approved,,영어판은 Research Room 이지만 일본어 원문은 リチャージルーム(에너지 충전실)이다. 실제 기능도 충전이라 원문을 따른다
+place.map_room,Map Room,マップルーム,맵 룸,approved,,
+place.starship,Starship,スターシップ,스타십,approved,,
+item.powered_suit,fully powered suit,パワードスーツ,파워드 슈트,approved,,
+sys.gate,hatch,ゲート,게이트,approved,,빔으로 여는 색깔 문. 일본어 원문이 ゲート 이고 영어판만 hatch 라 원문을 따른다. msg_b:005/006/008 에서 사용
+sys.time_attack,Time Attack,タイムアタック,타임 어택,approved,,
+sys.gallery,Gallery,ギャラリー,갤러리,approved,,
+sys.sound_test,Sound Test,サウンドテスト,사운드 테스트,approved,,
+sys.sleep_mode,Easy Sleep,スリープモード,슬립 모드,approved,,일본어 원문이 スリープモード 라 원문을 따른다. msg_a:036 에서 사용
+item.morph_ball_short,ball,ボール,볼,approved,,튜토리얼에서 원문이 モーフボール 대신 ボール 로 축약될 때 쓰는 형태(msg_b:007/008/014). 정식 명칭은 item.morph_ball

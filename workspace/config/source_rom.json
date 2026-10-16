@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "platform": "Game Boy Advance",
+  "region": "Japan",
+  "file": "original/Metroid - Zero Mission (Japan).gba",
+  "size_bytes": 8388608,
+  "sha256": "D087CA6E2D1808109A579C2283E944D81C8426D37DE564F99EA9273087C2172A",
+  "gba_header": {
+    "title": "ZEROMISSIONJ",
+    "game_code": "BMXJ",
+    "maker_code": "01",
+    "software_version": 0,
+    "complement_check": "0x13"
+  }
+}

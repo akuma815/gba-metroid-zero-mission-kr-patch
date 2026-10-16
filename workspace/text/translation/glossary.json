@@ -1,0 +1,389 @@
+{
+ "schema_version": 1,
+ "status": "approved",
+ "note": "승인 전 초안. 출처는 나무위키 메트로이드 시리즈 문서(커뮤니티 표준)이며 닌텐도 공식 한국어판 표기가 확인된 항목은 없다. 제로 미션은 2004년 대원씨아이가 일본판으로 발매해 공식 한국어 표기가 존재하지 않는다. 사용자 승인 후 approved 로 승격한다.",
+ "sources": [
+  "https://namu.wiki/w/메트로이드 시리즈/액션 및 파워 업",
+  "https://namu.wiki/w/메트로이드 제로 미션"
+ ],
+ "terms": [
+  {
+   "id": "item.energy_tank",
+   "src_en": "Energy Tank",
+   "src_ja": "エネルギータンク",
+   "ko": "에너지 탱크",
+   "state": "approved",
+   "approved_ko": "에너지 탱크"
+  },
+  {
+   "id": "item.missile_tank",
+   "src_en": "Missile Tank",
+   "src_ja": "ミサイルタンク",
+   "ko": "미사일 탱크",
+   "state": "approved",
+   "approved_ko": "미사일 탱크"
+  },
+  {
+   "id": "item.super_missile",
+   "src_en": "Super Missile",
+   "src_ja": "スーパーミサイル",
+   "ko": "슈퍼 미사일",
+   "state": "approved",
+   "approved_ko": "슈퍼 미사일"
+  },
+  {
+   "id": "item.power_bomb",
+   "src_en": "Power Bomb",
+   "src_ja": "パワーボム",
+   "ko": "파워 봄",
+   "state": "approved",
+   "note": "시리즈 관용 음차 '파워 봄' 으로 복귀(2026-08-20 사용자 결정). 앞서 '파워 폭탄' 의역을 썼으나 되돌렸다.",
+   "approved_ko": "파워 봄"
+  },
+  {
+   "id": "item.long_beam",
+   "src_en": "Long Beam",
+   "src_ja": "ロングビーム",
+   "ko": "롱 빔",
+   "state": "approved",
+   "approved_ko": "롱 빔"
+  },
+  {
+   "id": "item.charge_beam",
+   "src_en": "Charge Beam",
+   "src_ja": "チャージビーム",
+   "ko": "차지 빔",
+   "state": "approved",
+   "approved_ko": "차지 빔"
+  },
+  {
+   "id": "item.ice_beam",
+   "src_en": "Ice Beam",
+   "src_ja": "アイスビーム",
+   "ko": "아이스 빔",
+   "state": "approved",
+   "approved_ko": "아이스 빔"
+  },
+  {
+   "id": "item.wave_beam",
+   "src_en": "Wave Beam",
+   "src_ja": "ウェーブビーム",
+   "ko": "웨이브 빔",
+   "state": "approved",
+   "approved_ko": "웨이브 빔"
+  },
+  {
+   "id": "item.plasma_beam",
+   "src_en": "Plasma Beam",
+   "src_ja": "プラズマビーム",
+   "ko": "플라즈마 빔",
+   "state": "approved",
+   "note": "번역 대상 127건에는 등장하지 않는다. 게임 내에서는 '정체를 알 수 없는 아이템'으로 먼저 획득하며, 해금 후 이름 텍스트의 위치는 미확인",
+   "approved_ko": "플라즈마 빔"
+  },
+  {
+   "id": "item.bomb",
+   "src_en": "Bomb",
+   "src_ja": "ボム",
+   "ko": "봄",
+   "state": "approved",
+   "note": "시리즈 관용 음차 '봄' 으로 복귀(2026-08-20 사용자 결정). 앞서 계절 '봄' 과 동음이라는 이유로 '폭탄' 의역을 썼으나 되돌렸다.",
+   "approved_ko": "봄"
+  },
+  {
+   "id": "item.varia_suit",
+   "src_en": "Varia Suit",
+   "src_ja": "バリアスーツ",
+   "ko": "배리어 슈트",
+   "state": "approved",
+   "approved_ko": "배리어 슈트"
+  },
+  {
+   "id": "item.gravity_suit",
+   "src_en": "Gravity Suit",
+   "src_ja": "グラビティスーツ",
+   "ko": "그래비티 슈트",
+   "state": "approved",
+   "note": "번역 대상 127건에는 등장하지 않는다. 게임에서는 '정체를 알 수 없는 아이템'(msg_a:012/015/020)으로 먼저 획득하며, 해금 후 정식 이름 텍스트의 위치는 미확인이다",
+   "approved_ko": "그래비티 슈트"
+  },
+  {
+   "id": "item.morph_ball",
+   "src_en": "Morph Ball",
+   "src_ja": "モーフボール",
+   "ko": "모프볼",
+   "state": "approved",
+   "approved_ko": "모프볼"
+  },
+  {
+   "id": "item.speed_booster",
+   "src_en": "Speed Booster",
+   "src_ja": "スピードブースター",
+   "ko": "스피드 부스터",
+   "state": "approved",
+   "approved_ko": "스피드 부스터"
+  },
+  {
+   "id": "item.hi_jump",
+   "src_en": "Hi-Jump",
+   "src_ja": "ハイジャンプ",
+   "ko": "하이 점프",
+   "state": "approved",
+   "approved_ko": "하이 점프"
+  },
+  {
+   "id": "item.screw_attack",
+   "src_en": "Screw Attack",
+   "src_ja": "スクリューアタック",
+   "ko": "스크류 어택",
+   "state": "approved",
+   "approved_ko": "스크류 어택"
+  },
+  {
+   "id": "item.power_grip",
+   "src_en": "Power Grip",
+   "src_ja": "パワーグリップ",
+   "ko": "파워 그립",
+   "state": "approved",
+   "approved_ko": "파워 그립"
+  },
+  {
+   "id": "item.space_jump",
+   "src_en": "Space Jump",
+   "src_ja": "スペースジャンプ",
+   "ko": "스페이스 점프",
+   "state": "approved",
+   "note": "번역 대상 127건에는 등장하지 않는다. 게임에서는 '정체를 알 수 없는 아이템'(msg_a:012/015/020)으로 먼저 획득하며, 해금 후 정식 이름 텍스트의 위치는 미확인이다",
+   "approved_ko": "스페이스 점프"
+  },
+  {
+   "id": "item.unknown",
+   "src_en": "Unknown Item",
+   "src_ja": "なにか　わからない　アイテム",
+   "ko": "정체를 알 수 없는 아이템",
+   "state": "approved",
+   "note": "원문이 '뭔가 알 수 없는' 뉘앙스라 축약형 '미확인 아이템'보다 원문에 가깝다. msg_a:012/015/020 에서 사용. 게임 후반 해금 시 실제 이름으로 바뀌는데 그 텍스트는 아직 못 찾았다",
+   "approved_ko": "정체를 알 수 없는 아이템"
+  },
+  {
+   "id": "char.samus",
+   "src_en": "Samus Aran",
+   "src_ja": "サムス・アラン",
+   "ko": "사무스 아란",
+   "state": "approved",
+   "approved_ko": "사무스 아란"
+  },
+  {
+   "id": "char.mother_brain",
+   "src_en": "Mother Brain",
+   "src_ja": "マザーブレイン",
+   "ko": "마더 브레인",
+   "state": "approved",
+   "approved_ko": "마더 브레인"
+  },
+  {
+   "id": "char.metroid",
+   "src_en": "Metroid",
+   "src_ja": "メトロイド",
+   "ko": "메트로이드",
+   "state": "approved",
+   "approved_ko": "메트로이드"
+  },
+  {
+   "id": "char.chozo",
+   "src_en": "Chozo",
+   "src_ja": "鳥人",
+   "ko": "조인족",
+   "state": "approved",
+   "approved_ko": "조인족"
+  },
+  {
+   "id": "char.space_pirate",
+   "src_en": "Space Pirate",
+   "src_ja": "スペースパイレーツ",
+   "ko": "우주 해적",
+   "state": "approved",
+   "approved_ko": "우주 해적"
+  },
+  {
+   "id": "place.zebes",
+   "src_en": "Planet Zebes",
+   "src_ja": "惑星ゼーベス",
+   "ko": "행성 제베스",
+   "state": "approved",
+   "approved_ko": "행성 제베스"
+  },
+  {
+   "id": "place.brinstar",
+   "src_en": "Brinstar",
+   "src_ja": "ブリンスタ",
+   "ko": "브린스타",
+   "state": "approved",
+   "approved_ko": "브린스타"
+  },
+  {
+   "id": "place.kraid",
+   "src_en": "Kraid",
+   "src_ja": "クレイド",
+   "ko": "크레이드",
+   "state": "approved",
+   "approved_ko": "크레이드"
+  },
+  {
+   "id": "place.norfair",
+   "src_en": "Norfair",
+   "src_ja": "ノルフェア",
+   "ko": "노페어",
+   "state": "approved",
+   "approved_ko": "노페어"
+  },
+  {
+   "id": "place.ridley",
+   "src_en": "Ridley",
+   "src_ja": "リドリー",
+   "ko": "리들리",
+   "state": "approved",
+   "approved_ko": "리들리"
+  },
+  {
+   "id": "place.tourian",
+   "src_en": "Tourian",
+   "src_ja": "ツーリアン",
+   "ko": "투리안",
+   "state": "approved",
+   "note": "원문 가나가 ツーリアン 이라 투리안으로 음차. 커뮤니티 표기 투어리안과 다름",
+   "approved_ko": "투리안"
+  },
+  {
+   "id": "place.crateria",
+   "src_en": "Crateria",
+   "src_ja": "クレテリア",
+   "ko": "크레테리아",
+   "state": "approved",
+   "approved_ko": "크레테리아"
+  },
+  {
+   "id": "place.chozodia",
+   "src_en": "Chozodia",
+   "src_ja": "チョウゾディア",
+   "ko": "초조디아",
+   "state": "approved",
+   "approved_ko": "초조디아"
+  },
+  {
+   "id": "place.mother_ship",
+   "src_en": "Mother Ship",
+   "src_ja": "うちゅうかいぞくせん",
+   "ko": "우주 해적선",
+   "state": "approved",
+   "note": "일본어 가나판이 うちゅうかいぞくせん(우주해적선)이고 영어판만 Mother Ship 이다. 원문 기준을 따른다",
+   "approved_ko": "우주 해적선"
+  },
+  {
+   "id": "place.chozo_ruins",
+   "src_en": "Chozo Ruins",
+   "src_ja": "ちょうじんいせき",
+   "ko": "조인족 유적",
+   "state": "approved",
+   "approved_ko": "조인족 유적"
+  },
+  {
+   "id": "place.save_room",
+   "src_en": "Save Room",
+   "src_ja": "セーブルーム",
+   "ko": "세이브 룸",
+   "state": "approved",
+   "approved_ko": "세이브 룸"
+  },
+  {
+   "id": "place.recharge_room",
+   "src_en": "Research Room",
+   "src_ja": "リチャージルーム",
+   "ko": "리차지 룸",
+   "state": "approved",
+   "note": "영어판은 Research Room 이지만 일본어 원문은 リチャージルーム(에너지 충전실)이다. 실제 기능도 충전이라 원문을 따른다",
+   "approved_ko": "리차지 룸"
+  },
+  {
+   "id": "place.map_room",
+   "src_en": "Map Room",
+   "src_ja": "マップルーム",
+   "ko": "맵 룸",
+   "state": "approved",
+   "approved_ko": "맵 룸"
+  },
+  {
+   "id": "place.starship",
+   "src_en": "Starship",
+   "src_ja": "スターシップ",
+   "ko": "스타십",
+   "state": "approved",
+   "approved_ko": "스타십"
+  },
+  {
+   "id": "item.powered_suit",
+   "src_en": "fully powered suit",
+   "src_ja": "パワードスーツ",
+   "ko": "파워드 슈트",
+   "state": "approved",
+   "approved_ko": "파워드 슈트"
+  },
+  {
+   "id": "sys.gate",
+   "src_en": "hatch",
+   "src_ja": "ゲート",
+   "ko": "게이트",
+   "state": "approved",
+   "note": "빔으로 여는 색깔 문. 일본어 원문이 ゲート 이고 영어판만 hatch 라 원문을 따른다. msg_b:005/006/008 에서 사용",
+   "approved_ko": "게이트"
+  },
+  {
+   "id": "sys.time_attack",
+   "src_en": "Time Attack",
+   "src_ja": "タイムアタック",
+   "ko": "타임 어택",
+   "state": "approved",
+   "approved_ko": "타임 어택"
+  },
+  {
+   "id": "sys.gallery",
+   "src_en": "Gallery",
+   "src_ja": "ギャラリー",
+   "ko": "갤러리",
+   "state": "approved",
+   "approved_ko": "갤러리"
+  },
+  {
+   "id": "sys.sound_test",
+   "src_en": "Sound Test",
+   "src_ja": "サウンドテスト",
+   "ko": "사운드 테스트",
+   "state": "approved",
+   "approved_ko": "사운드 테스트"
+  },
+  {
+   "id": "sys.sleep_mode",
+   "src_en": "Easy Sleep",
+   "src_ja": "スリープモード",
+   "ko": "슬립 모드",
+   "state": "approved",
+   "note": "일본어 원문이 スリープモード 라 원문을 따른다. msg_a:036 에서 사용",
+   "approved_ko": "슬립 모드"
+  },
+  {
+   "id": "item.morph_ball_short",
+   "src_en": "ball",
+   "src_ja": "ボール",
+   "ko": "볼",
+   "state": "approved",
+   "note": "튜토리얼에서 원문이 モーフボール 대신 ボール 로 축약될 때 쓰는 형태(msg_b:007/008/014). 정식 명칭은 item.morph_ball",
+   "approved_ko": "볼"
+  }
+ ],
+ "approval": {
+  "by": "akuma815",
+  "date": "2026-08-24",
+  "scope": "용어 45개",
+  "invalidates_on": "용어의 ko 표기가 바뀌면 그 용어를 쓰는 항목을 재검토"
+ }
+}

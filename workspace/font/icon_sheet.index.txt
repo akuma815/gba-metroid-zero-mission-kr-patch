@@ -1,0 +1,2 @@
+codes 0x0300-0x0320, printable 32, 32 cols
+row   0: 0x0300 .. 0x031F

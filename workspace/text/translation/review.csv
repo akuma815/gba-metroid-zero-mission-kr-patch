@@ -1,0 +1,400 @@
+﻿ID,분류,화자/맥락,원문(일본어),원문(영어),번역(한국어),상태,줄수,창,창폭px,최대폭px,여유px,번역_원본(토큰포함),비고
+msg_a:000,미사용,-,ダミー,DUMMY MESSAGE (OBJ Cell B1),더미,distribution_eligible,2,아이템·시스템 메시지,216,20,196,{x:62}더미{br}{x:6E}{end},게임에 표시되지 않음
+msg_a:001,아이템 획득,시스템,"エネルギータンク
+たいりょくの　さいだいちが　あがった","Energy Tank acquired.
+Energy capacity increased.","에너지 탱크
+체력 최대치가 올랐다",distribution_eligible,2,아이템·시스템 메시지,216,102,114,{x:4E}{c:05}에너지 탱크{br}{x:28}{c:00}체력 최대치가 올랐다{end},
+msg_a:002,아이템 획득,시스템,"ミサイルタンク
+ミサイルを　もてるかずの　さいだいちが　あがった","Missile Tank acquired.
+Missile capacity increased.","미사일 탱크
+미사일 최대 소지 수가 올랐다",distribution_eligible,2,아이템·시스템 메시지,216,144,72,{x:52}{c:05}미사일 탱크{br}{x:11}{c:00}미사일 최대 소지 수가 올랐다{end},
+msg_a:003,아이템 획득,시스템,ミサイルタンク,Missile Tank,미사일 탱크,distribution_eligible,2,아이템·시스템 메시지,216,56,160,{x:52}{c:05}미사일 탱크{br}{x:6E}{end},
+msg_a:004,아이템 획득,시스템,"スーパーミサイルタンク
+スーパーミサイルを　もてるかずの　さいだいちが　あがった","Super Missile Tank acquired.
+Super Missile capacity increased.","슈퍼 미사일 탱크
+슈퍼 미사일 최대 소지 수가 올랐다",distribution_eligible,2,아이템·시스템 메시지,216,170,46,{x:42}{c:05}슈퍼 미사일 탱크{br}{x:01}{c:00}슈퍼 미사일 최대 소지 수가 올랐다{end},
+msg_a:005,아이템 획득,시스템,スーパーミサイルタンク,Super Missile Tank,슈퍼 미사일 탱크,distribution_eligible,2,아이템·시스템 메시지,216,82,134,{x:42}{c:05}슈퍼 미사일 탱크{br}{x:6E}{end},
+msg_a:006,아이템 획득,시스템,"パワーボムタンク
+パワーボムを　もてるかずの　さいだいちが　あがった","Power Bomb Tank
+Power Bomb capacity increased.","파워 봄 탱크
+파워 봄 최대 소지 수가 올랐다",distribution_eligible,2,아이템·시스템 메시지,216,160,56,{x:4E}{c:05}파워 봄 탱크{br}{x:0D}{c:00}파워 봄 최대 소지 수가 올랐다{end},
+msg_a:007,아이템 획득,시스템,パワーボムタンク,Power Bomb Tank,파워 봄 탱크,distribution_eligible,2,아이템·시스템 메시지,216,72,144,{x:4E}{c:05}파워 봄 탱크{br}{x:6E}{end},
+msg_a:008,아이템 이름,시스템,ロングビーム,Long Beam,롱 빔,distribution_eligible,2,아이템·시스템 메시지,216,26,190,{x:56}{c:05}롱 빔{br}{x:6E}{end},
+msg_a:009,아이템 이름,시스템,チャージビーム,Charge Beam,차지 빔,distribution_eligible,2,아이템·시스템 메시지,216,36,180,{x:52}{c:05}차지 빔{br}{x:6E}{end},
+msg_a:010,아이템 이름,시스템,アイスビーム,Ice Beam,아이스 빔,distribution_eligible,2,아이템·시스템 메시지,216,46,170,{x:56}{c:05}아이스 빔{br}{x:6E}{end},
+msg_a:011,아이템 이름,시스템,ウェイブビーム,Wave Beam,웨이브 빔,distribution_eligible,2,아이템·시스템 메시지,216,46,170,{x:52}{c:05}웨이브 빔{br}{x:6E}{end},
+msg_a:012,아이템 이름,시스템,なにか　わからない　アイテム,Unknown Item,정체를 알 수 없는 아이템,distribution_eligible,2,아이템·시스템 메시지,216,124,92,{x:38}{c:05}정체를 알 수 없는 아이템{br}{x:6E}{end},
+msg_a:013,아이템 이름,시스템,ボム,Bomb,봄,distribution_eligible,2,아이템·시스템 메시지,216,20,196,{x:66}{c:05}봄{br}{x:6E}{end},
+msg_a:014,아이템 이름,시스템,バリアスーツ,Varia Suit,배리어 슈트,distribution_eligible,2,아이템·시스템 메시지,216,56,160,{x:56}{c:05}배리어 슈트{br}{x:6E}{end},
+msg_a:015,아이템 이름,시스템,なにか　わからない　アイテム,Unknown Item,정체를 알 수 없는 아이템,distribution_eligible,2,아이템·시스템 메시지,216,124,92,{x:38}{c:05}정체를 알 수 없는 아이템{br}{x:6E}{end},
+msg_a:016,아이템 이름,시스템,モーフボール,Morph Ball,모프볼,distribution_eligible,2,아이템·시스템 메시지,216,30,186,{x:56}{c:05}모프볼{br}{x:6E}{end},
+msg_a:017,아이템 이름,시스템,スピードブースター,Speed Booster,스피드 부스터,distribution_eligible,2,아이템·시스템 메시지,216,66,150,{x:4A}{c:05}스피드 부스터{br}{x:6E}{end},
+msg_a:018,아이템 이름,시스템,ハイジャンプ,Hi-Jump,하이 점프,distribution_eligible,2,아이템·시스템 메시지,216,46,170,{x:56}{c:05}하이 점프{br}{x:6E}{end},
+msg_a:019,아이템 이름,시스템,スクリューアタック,Screw Attack,스크류 어택,distribution_eligible,2,아이템·시스템 메시지,216,56,160,{x:4A}{c:05}스크류 어택{br}{x:6E}{end},
+msg_a:020,아이템 이름,시스템,なにか　わからない　アイテム,Unknown Item,정체를 알 수 없는 아이템,distribution_eligible,2,아이템·시스템 메시지,216,124,92,{x:38}{c:05}정체를 알 수 없는 아이템{br}{x:6E}{end},
+msg_a:021,아이템 이름,시스템,パワーグリップ,Power Grip,파워 그립,distribution_eligible,2,아이템·시스템 메시지,216,46,170,{x:52}{c:05}파워 그립{br}{x:6E}{end},
+msg_a:022,세이브,시스템,"セーブしますか？
+はいいいえ","Save？
+YesNo","세이브하시겠습니까?
+예아니오",distribution_eligible,2,아이템·시스템 메시지,216,98,118,{x:4E}세이브하시겠습니까?{br}{x:5A}{xm:40}예{xm:A0}아니오{end},
+msg_a:023,세이브,시스템,セーブしました,Save Complete,세이브했습니다,distribution_eligible,2,아이템·시스템 메시지,216,70,146,{x:52}세이브했습니다{br}{x:6E}{end},
+msg_a:024,보급·회복,시스템,"ぶきが
+ぜんぶ　ほきゅう　されました","Weapons system
+resupply complete.","무기가
+모두 보급되었습니다",distribution_eligible,2,아이템·시스템 메시지,216,96,120,{x:62}무기가{br}{x:38}모두 보급되었습니다{end},
+msg_a:025,보급·회복,시스템,"たいりょくが
+ぜんぶ　かいふく　されました","Energy Tank
+recharge complete.","체력이
+모두 회복되었습니다",distribution_eligible,2,아이템·시스템 메시지,216,96,120,{x:56}체력이{br}{x:38}모두 회복되었습니다{end},
+msg_a:026,보급·회복,시스템,"ぶきも　たいりょくも
+ぜんぶ　かいふく　されました","Weapons and energy
+fully restored.","무기와 체력이
+모두 회복되었습니다",distribution_eligible,2,아이템·시스템 메시지,216,96,120,{x:47}무기와 체력이{br}{x:38}모두 회복되었습니다{end},
+msg_a:027,맵 데이터 획득,시스템,ブリンスタのマップデータを　てにいれた,Brinstar map data acquired.,브린스타의 맵 데이터를 입수했다,distribution_eligible,2,아이템·시스템 메시지,216,158,58,{x:23}{c:09}브린스타{c:00}의 {c:05}맵 데이터{c:00}를 입수했다{br}{x:6E}{end},
+msg_a:028,맵 데이터 획득,시스템,クレイドのマップデータを てにいれた,Kraid map data acquired.,크레이드의 맵 데이터를 입수했다,distribution_eligible,2,아이템·시스템 메시지,216,158,58,{x:27}{c:08}크레이드{c:00}의 {c:05}맵 데이터{c:00}를 입수했다{br}{x:6E}{end},
+msg_a:029,맵 데이터 획득,시스템,ノルフェアのマップデータを　てにいれた,Norfair map data acquired.,노페어의 맵 데이터를 입수했다,distribution_eligible,2,아이템·시스템 메시지,216,148,68,{x:23}{c:06}노페어{c:00}의 {c:05}맵 데이터{c:00}를 입수했다{br}{x:6E}{end},
+msg_a:030,맵 데이터 획득,시스템,リドリーのマップデータを　てにいれた,Ridley map data acquired.,리들리의 맵 데이터를 입수했다,distribution_eligible,2,아이템·시스템 메시지,216,148,68,{x:27}{c:07}리들리{c:00}의 {c:05}맵 데이터{c:00}를 입수했다{br}{x:6E}{end},
+msg_a:031,맵 데이터 획득,시스템,うちゅうかいぞくせんのマップデータを　とった,Mother Ship map data acquired.,우주 해적선의 맵 데이터를 입수했다,distribution_eligible,2,아이템·시스템 메시지,216,174,42,{x:17}{c:0A}우주 해적선{c:00}의 {c:05}맵 데이터{c:00}를 입수했다{br}{x:6E}{end},
+msg_a:032,아이템 획득,시스템,でんせつのパワードスーツを　てにいれた,You got your fully powered suit.,전설의 파워드 슈트를 손에 넣었다,distribution_eligible,2,아이템·시스템 메시지,216,164,52,{x:23}전설의 {c:05}파워드 슈트{c:00}를 손에 넣었다{br}{x:6E}{end},
+msg_a:033,자폭 경고,함내 방송,"じばくそうち　さどう！
+だっしゅつせよ！","Self-destruct mechanism activated!
+Evacuate immediately!","자폭 장치 작동!
+탈출하라!",distribution_eligible,2,아이템·시스템 메시지,216,78,138,{x:43}자폭 장치 작동!{br}{x:4E}탈출하라!{end},
+msg_a:034,자폭 경고,함내 방송,"じばくそうち　さどう！
+だっしゅつせよ！","Self-destruct mechanism activated!
+Evacuate immediately!","자폭 장치 작동!
+탈출하라!",distribution_eligible,2,아이템·시스템 메시지,216,78,138,{x:43}자폭 장치 작동!{br}{x:4E}탈출하라!{end},
+msg_a:035,디버그,-,"てきはいちデータがいじょう
+メッセージフレームがはいちされていませんか？","Enemy location abnormal.
+Check message frame position.","적 배치 데이터 이상
+메시지 프레임이 배치되지 않았습니까?",distribution_eligible,2,아이템·시스템 메시지,216,186,30,{x:3A}적 배치 데이터 이상{br}{x:16}메시지 프레임이 배치되지 않았습니까?{end},
+msg_a:036,슬립 모드,시스템,"スリープモードにはいりますか？
+スリープモードからもどるときは","Activate Easy Sleep？
+To exit Easy Sleep,","슬립 모드로 들어가시겠습니까?
+슬립 모드에서 돌아올 때는",distribution_eligible,2,아이템·시스템 메시지,216,150,66,{x:32}슬립 모드로 들어가시겠습니까?{br}{x:32}슬립 모드에서 돌아올 때는{end},
+msg_a:037,슬립 모드,시스템,"と  と  を
+どうじにおしてください","press , , and 
+simultaneously.",세 버튼을 동시에 눌러 주세요,distribution_eligible,2,아이템·시스템 메시지,216,144,72,{x:32}{u:02C9}{u:02CA}{u:02CC} {u:030C} {u:030E}{br}{x:42}세 버튼을 동시에 눌러 주세요{end},
+msg_a:038,슬립 모드,시스템,"はい
+いいえ","Yes
+No","예
+아니오",distribution_eligible,2,아이템·시스템 메시지,216,30,186,{x:66}예{br}{x:62}아니오{end},
+msg_a:039,지역·시설 이름,화면 표시,ブリンスタ,BRINSTAR,브린스타,distribution_eligible,1,지역 이름,216,40,176,{x:5A}브린스타{end},
+msg_a:040,지역·시설 이름,화면 표시,クレイド,KRAID,크레이드,distribution_eligible,1,지역 이름,216,40,176,{x:5E}크레이드{end},
+msg_a:041,지역·시설 이름,화면 표시,ノルフェア,NORFAIR,노페어,distribution_eligible,1,지역 이름,216,30,186,{x:5A}노페어{end},
+msg_a:042,지역·시설 이름,화면 표시,リドリー,RIDLEY,리들리,distribution_eligible,1,지역 이름,216,30,186,{x:5E}리들리{end},
+msg_a:043,지역·시설 이름,화면 표시,ツーリアン,TOURIAN,투리안,distribution_eligible,1,지역 이름,216,30,186,{x:5A}투리안{end},
+msg_a:044,지역·시설 이름,화면 표시,クレテリア,CRATERIA,크레테리아,distribution_eligible,1,지역 이름,216,50,166,{x:5A}크레테리아{end},
+msg_a:045,지역·시설 이름,화면 표시,チョウゾディア,CHOZODIA,초조디아,distribution_eligible,1,지역 이름,216,40,176,{x:52}초조디아{end},
+msg_a:046,지역·시설 이름,화면 표시,うちゅうかいぞくせん,SPACE PIRATE MOTHER SHIP,우주 해적선,distribution_eligible,1,지역 이름,216,56,160,{x:46}우주 해적선{end},
+msg_a:047,지역·시설 이름,화면 표시,わくせいゼーベス,PLANET ZEBES,행성 제베스,distribution_eligible,1,지역 이름,216,56,160,{x:4E}행성 제베스{end},
+msg_a:048,지역·시설 이름,화면 표시,セーブルーム,SAVE ROOM,세이브 룸,distribution_eligible,1,지역 이름,216,46,170,{x:56}세이브 룸{end},
+msg_a:049,지역·시설 이름,화면 표시,リチャージルーム,RESEARCH ROOM,리차지 룸,distribution_eligible,1,지역 이름,216,46,170,{x:4E}리차지 룸{end},
+msg_a:050,지역·시설 이름,화면 표시,マップルーム,MAP ROOM,맵 룸,distribution_eligible,1,지역 이름,216,26,190,{x:56}맵 룸{end},
+msg_a:051,지역·시설 이름,화면 표시,ちょうじんいせき,CHOZO RUINS,조인족 유적,distribution_eligible,1,지역 이름,216,56,160,{x:4E}조인족 유적{end},
+msg_a:052,지역·시설 이름,화면 표시,スターシップ,STARSHIP,스타십,distribution_eligible,1,지역 이름,216,30,186,{x:56}스타십{end},
+msg_a:053,미사용,-,き7,UNUSED OBJ 7,미사용 7,distribution_eligible,1,지역 이름,216,43,173,{x:62}미사용 7{end},게임에 표시되지 않음
+msg_a:054,미사용,-,き８,UNUSED OBJ 8,미사용 8,distribution_eligible,1,지역 이름,216,43,173,{x:61}미사용 8{end},게임에 표시되지 않음
+msg_a:055,미사용,-,き９,UNUSED OBJ 9,미사용 9,distribution_eligible,1,지역 이름,216,43,173,{x:61}미사용 9{end},게임에 표시되지 않음
+msg_a:056,미사용,-,き１０,UNUSED OBJ 10,미사용 10,distribution_eligible,1,지역 이름,216,48,168,{x:5D}미사용 10{end},게임에 표시되지 않음
+msg_a:057,미사용,-,き１１,UNUSED OBJ 11,미사용 11,distribution_eligible,1,지역 이름,216,46,170,{x:5D}미사용 11{end},게임에 표시되지 않음
+msg_a:058,미사용,-,き１２,UNUSED OBJ 12,미사용 12,distribution_eligible,1,지역 이름,216,48,168,{x:5D}미사용 12{end},게임에 표시되지 않음
+msg_a:059,미사용,-,き１３,UNUSED OBJ 13,미사용 13,distribution_eligible,1,지역 이름,216,48,168,{x:5D}미사용 13{end},게임에 표시되지 않음
+msg_a:060,미사용,-,き１４,UNUSED OBJ 14,미사용 14,distribution_eligible,1,지역 이름,216,48,168,{x:5D}미사용 14{end},게임에 표시되지 않음
+msg_a:061,미사용,-,き１５,UNUSED OBJ 15,미사용 15,distribution_eligible,1,지역 이름,216,48,168,{x:5D}미사용 15{end},게임에 표시되지 않음
+msg_a:062,미사용,-,き１６,UNUSED OBJ 16,미사용 16,distribution_eligible,1,지역 이름,216,48,168,{x:5D}미사용 16{end},게임에 표시되지 않음
+msg_a:063,미사용,-,き１７,UNUSED OBJ 17,미사용 17,distribution_eligible,1,지역 이름,216,48,168,{x:5D}미사용 17{end},게임에 표시되지 않음
+msg_a:064,미사용,-,き１８,UNUSED OBJ 18,미사용 18,distribution_eligible,1,지역 이름,216,48,168,{x:5D}미사용 18{end},게임에 표시되지 않음
+msg_b:000,아이템 설명(튜토리얼),시스템,"とおくまでとどくビーム
+ビームは　＋で　ななめにうつことができる","Fire long-distance shots with this beam.
+Press  +  to fire diagonally.","멀리까지 닿는 빔
+빔은 ＋로 비스듬히 쏠 수 있다",distribution_eligible,2,튜토리얼,224,178,46,멀리까지 닿는 빔{br}빔은 {u:030C}＋{u:030A}로 비스듬히 쏠 수 있다{end},
+msg_b:001,아이템 설명(튜토리얼),시스템,"をおしつづけ　パワーをため、はなすとはっしゃ
+チャージアタックパワーをためたままでかいてんジャンプ","Hold  to charge. Release to fire.
+Charge Attack: Jump with a full charge.","를 누른 채 파워를 모아, 놓으면 발사
+차지 어택파워를 모은 채 회전 점프",distribution_eligible,2,튜토리얼,224,210,14,{u:02CE}{u:030A}를 누른 채 파워를 모아 놓으면 발사{u:02CF}{br}차지 어택{u:02C4}{u:02C4}파워를 모은 채 회전 점프{end},여유 적음(14px)
+msg_b:002,아이템 설명(튜토리얼),시스템,"てきを、こおらせることができるビーム
+こおらせたてきには　のることができる","This beam can freeze enemies in place.
+You can safely stand on frozen enemies.","적을 얼릴 수 있는 빔
+얼린 적 위에는 올라탈 수 있다",distribution_eligible,2,튜토리얼,224,150,74,적을 얼릴 수 있는 빔{br}얼린 적 위에는 올라탈 수 있다{end},
+msg_b:003,아이템 설명(튜토리얼),시스템,かべなどを　とおりぬけるビーム,"This beam, which is made up of energy
+waves, can pass through solid objects.",벽 등을 통과하는 빔,distribution_eligible,1,튜토리얼,224,98,126,벽 등을 통과하는 빔{end},
+msg_b:004,아이템 설명(튜토리얼),시스템,てきを　つきぬけるビーム,"This powerful beam can blast through
+multiple enemies.",적을 꿰뚫는 빔,distribution_eligible,1,튜토리얼,224,72,152,적을 꿰뚫는 빔{end},
+msg_b:005,아이템 설명(튜토리얼),시스템,#NAME?,"Press  +  to fire.
+Opens red hatches.",#NAME?,distribution_eligible,2,튜토리얼,224,124,100,{u:02CE}{u:030E}＋{u:030A}로 발사{u:02CF}{br}{c:06}빨간 게이트{c:00}를 열 수 있다{end},
+msg_b:006,아이템 설명(튜토리얼),시스템,"でミサイルときりかえ、＋ではっしゃ
+みどりいろのゲートをあけることができる","Arm with . Fire with  + .
+Opens green hatches.","로 미사일과 전환, ＋로 발사
+초록색 게이트를 열 수 있다",distribution_eligible,2,튜토리얼,224,217,7,{u:02CE}{u:02C9}{u:02CA}{u:02CC}로 미사일과 전환 {u:030E}＋{u:030A}로 발사{u:02CF}{br}{c:08}초록색 게이트{c:00}를 열 수 있다{end},여유 적음(7px)
+msg_b:007,아이템 설명(튜토리얼),시스템,ボールになったままでおく,Press  in Morph Ball form to set.,볼이 된 채로 로 설치,distribution_eligible,1,튜토리얼,224,134,90,{u:02CE}볼이 된 채로 {u:030A}로 설치{u:02CF}{end},
+msg_b:008,아이템 설명(튜토리얼),시스템,"ボールになり＋でおく
+きいろのゲートをあけることができる","Set with  +  in Morph Ball form.
+Opens yellow hatches.","볼이 되어 ＋로 설치
+노란 게이트를 열 수 있다",distribution_eligible,2,튜토리얼,224,142,82,{u:02CE}볼이 되어 {u:030E}＋{u:030A}로 설치{u:02CF}{br}{c:05}노란 게이트{c:00}를 열 수 있다{end},
+msg_b:009,아이템 설명(튜토리얼),시스템,"ダメージをへらし、あついばしょでも、へいきになる
+また、どくのみずにはいっても、だいじょうぶになる","Decreases damage taken from enemies.
+Prevents damage from acid and heat.","데미지를 줄이고 뜨거운 곳에서도 견딘다
+또한, 독성물에 들어가도 괜찮아진다",needs_review,2,튜토리얼,224,194,30,데미지를 줄이고 {c:06}뜨거운 곳{c:00}에서도 견딘다{br}또한 {c:05}독성 물{c:00}에 들어가도 괜찮아진다{end},재승인 대기
+msg_b:010,아이템 설명(튜토리얼),시스템,"ダメージをへらし、みずのなかなどで、じゆうにうごける
+また、ようがんにはいっても、だいじょうぶになる","Reduces damage from foes. Enables free
+movement in water. Stops lava damage.","데미지를 줄이고 물속에서 자유롭게 움직인다
+또한, 용암에 들어가도 괜찮아진다",needs_review,2,튜토리얼,224,214,10,데미지를 줄이고 물속에서 자유롭게 움직인다{br}또한 {c:06}용암{c:00}에 들어가도 괜찮아진다{end},여유 적음(10px); 재승인 대기
+msg_b:011,아이템 설명(튜토리얼),시스템,"を２かいおす
+ボールになり、せまいつうろを　とおることができる","Double-tap  to take ball form and
+gain access to narrow passageways.","를 2번 누른다
+볼이 되어, 좁은 통로를 지날 수 있다",distribution_eligible,2,튜토리얼,224,180,44,{u:02CE}{u:0302}를 2번 누른다{u:02CF}{br}볼이 되어 좁은 통로를 지날 수 있다{end},
+msg_b:012,아이템 설명(튜토리얼),시스템,あしばや、かべのかどにつかまることができる,Grab and hang from ledges and corners.,발판이나 벽 모서리를 붙잡을 수 있다,distribution_eligible,1,튜토리얼,224,180,44,발판이나 벽 {c:05}모서리를 붙잡을{c:00} 수 있다{end},
+msg_b:013,아이템 설명(튜토리얼),시스템,"どんどんはしれば、こうそくになり、あるブロックをこわせる
+さいこうそくでたいあたりすると　てきにダメージをあたえる","Run until speed boost begins to break
+certain blocks and damage enemies.","고속 대시로 달리면 일부 블록을 부순다
+고속 대시 중 부딪치면 적에게 데미지를 준다",distribution_eligible,2,튜토리얼,224,216,8,{c:05}고속 대시{c:00}로 달리면 {c:05}일부 블록을 부순다{c:00}{br}고속 대시 중 부딪치면 적에게 데미지를 준다{end},여유 적음(8px)
+msg_b:014,아이템 설명(튜토리얼),시스템,"たかく　ジャンプできるようになる
+また、ボールのままでも　ジャンプができる","Increases maximum jump height.
+Adds Morph Ball jumping capability.","높이 점프할 수 있게 된다
+또한, 볼인 채로도 점프할 수 있다",distribution_eligible,2,튜토리얼,224,164,60,높이 점프할 수 있게 된다{br}또한 볼인 채로도 점프할 수 있다{end},
+msg_b:015,아이템 설명(튜토리얼),시스템,"かいてんジャンプで、たいあたりすると、
+てきにダメージをあたえる",Damage enemies while somersaulting.,회전 점프로 부딪치면 적에게 데미지를 준다,distribution_eligible,1,튜토리얼,224,210,14,회전 점프로 부딪치면 적에게 데미지를 준다{end},여유 적음(14px)
+msg_b:016,아이템 설명(튜토리얼),시스템,"かいてんジャンプちゅうに　ふたたびジャンプできる
+かいてんジャンプで　おちているとき　もういちど","Somersault continually in the air.
+Use  mid-somersault to jump again.","회전 점프 중에 다시 점프할 수 있다
+회전 점프로 떨어질 때 한 번 더",distribution_eligible,2,튜토리얼,224,192,32,회전 점프 중에 다시 점프할 수 있다{br}{u:02CE}회전 점프로 떨어질 때 한 번 더 {u:0308}{u:02CF}{end},
+msg_b:017,아이템 설명(튜토리얼),시스템,"これがなにか、わかりません
+いまのスーツでは、うごきません","Analysis inconclusive.
+Item incompatible with current suit.","이것이 무엇인지, 알 수 없습니다
+지금의 슈트로는, 작동하지 않습니다",distribution_eligible,2,튜토리얼,224,172,52,{c:06}이것이 무엇인지 알 수 없습니다{c:00}{br}지금의 슈트로는 작동하지 않습니다{end},
+msg_b:018,아이템 설명(튜토리얼),시스템,"じどうでパワーがたまるピストル
+パワーをためてから、うつと　てきがしびれて、すこしとまる","An auto-charging pistol.
+Stun enemies with charged shots.","자동으로 파워가 모이는 권총
+파워를 모아 쏘면 적이 마비되어 잠시 멈춘다",needs_review,2,튜토리얼,224,216,8,자동으로 {c:05}파워가 모이는{c:05} 권총{br}{c:05}파워를 모아 쏘{c:00}면 {c:00}적이 {c:06}마비되어 잠시 멈춘다{c:00}{end},여유 적음(8px); 재승인 대기
+msg_b:019,인트로 독백,사무스,"ちいさいころの　わたしが　くらした「わくせいゼーベス」
+いまはもう、とてもおそろしい　ほしになってしまった、
+そのゼーベスでの、わたしのさいしょの　にんむのことを
+みんなは「ゼロミッション」と、よんでいる・
+そのたたかいのことを、いま、ぜんぶはなそう゛゛゛
+　　　　　　　　　　　　　　　　　　　　 　－　サムス゛アラン　－","Planet Zebes... I called this place home
+once, in peaceful times, long before evil
+haunted the caverns below. Now, I shall
+finally tell the tale of my first battle
+here... My so-called Zero Mission.
+                       -Samus Aran-","어릴 적 내가 살았던 「행성 제베스」
+지금은 이미 무척 무서운 별이 되어 버렸다,
+그 제베스에서의 나의 첫 임무를
+모두는 「제로 미션」이라 부르고 있다.
+그 싸움에 대해 이제, 전부 이야기하겠다...
+　　　　　　　　　　　　　　　　　　　　 　-　사무스 아란　-",distribution_eligible,6,인트로 독백,240,216,24,어릴 적 내가 살았던 「행성 제베스」{br}지금은 이미 무척 무서운 별이 되어 버렸다{br}그 제베스에서의 나의 첫 임무를{br}모두는 「제로 미션」이라 부르고 있다.{br}그 싸움에 대해 이제 전부 이야기하겠다...{br}　　　　　　　　　　　　　　　　　　　　 　-　사무스 아란　-{end},
+msg_b:020,인트로 독백,사무스,"すごく　わるいタイミングで、ゼーベスにかえってきた
+うちゅうかいぞくに　おいかけられて、
+わたしは、こんなよわいかっこうで、
+だっしゅつしなければならなくなった・　わたしの　ぶきは、
+あんまり　やくにたちそうもない、いっちょうの
+このピストルだけだ・　これだけをもって、わたしはいま　
+かえるほうほうを　みつけようと、うちゅうかいぞくの
+おおきなうちゅうせんに　はいっていこうとしている・","The timing of my escape couldn't have
+been worse. I was attacked by Space
+Pirates and left nearly defenseless,
+stripped of my Power Suit. All I had for
+protection was my rather useless
+emergency pistol. Infiltrating the Space
+Pirate Mother Ship so armed may have
+been foolish, but I had no choice...","아주 나쁜 때에,제베스로 돌아오고 말았다
+우주 해적에게 쫓겨
+나는 이런 무방비한 차림으로
+탈출해야만 하게 되었다. 나의 무기는
+그다지 도움이 될 것 같지 않은 단 한 자루
+이 권총뿐이다. 이것만 들고 나는 지금
+돌아갈 방법을 찾으려고 우주 해적의
+거대한 우주선에 들어가려 하고 있다.",distribution_eligible,8,인트로 독백,240,212,28,아주 나쁜 때에 제베스로 돌아오고 말았다{br}우주 해적에게 쫓겨{br}나는 이런 무방비한 차림으로{br}탈출해야만 하게 되었다. 나의 무기는{br}그다지 도움이 될 것 같지 않은 단 한 자루{br}이 권총뿐이다. 이것만 들고 나는 지금{br}돌아갈 방법을 찾으려고 우주 해적의{br}거대한 우주선에 들어가려 하고 있다.{end},
+msg_b:021,인트로 독백,사무스,はたして、いきてかえれるのだろうか゛゛゛,Could I survive long enough to escape？,"과연, 살아서 돌아갈 수 있을까...",distribution_eligible,1,인트로 독백,240,160,80,과연 살아서 돌아갈 수 있을까...{end},
+msg_b:022,긴급 지령,은하연방 사령부,きんきゅうしれい,Emergency Order,긴급 지령,distribution_eligible,1,긴급 지령,240,46,194,{x:50}긴급 지령{end},
+msg_b:023,긴급 지령,은하연방 사령부,"わくせいゼーベスの「メトロイド」を
+ぜんぶやっつけろ・そして゛゛゛","Exterminate all Metroid organisms
+on Planet Zebes...","행성 제베스의 「메트로이드」를
+전부 없애라. 그리고...",distribution_eligible,2,긴급 지령,240,148,92,{x:2C}행성 제베스의 「메트로이드」를{br}{x:34}전부 없애라. 그리고...{end},
+msg_b:024,긴급 지령,은하연방 사령부,きかいじかけのいきもの「マザーブレイン」を、はかいせよ・,"And defeat the mechanical life-form,
+Mother Brain.",기계 생명체 「마더 브레인」을 파괴하라.,distribution_eligible,1,긴급 지령,240,194,46,{x:19}기계 생명체 「마더 브레인」을 파괴하라.{end},
+msg_b:025,시작 메뉴,시스템,"ゲームスタート
+ゲームスタート（）","Start Game
+Start Game (Link)","게임 스타트
+게임 스타트 (통신)",distribution_eligible,2,파일 선택·삭제,128,92,36,게임 스타트{br}게임 스타트 (통신){end},
+msg_b:026,파일 복사·삭제,시스템,"コピーするデータを
+えらんでください","Choose a data file
+to copy.","복사할 데이터를
+골라 주세요",distribution_eligible,2,파일 선택·삭제,128,76,52,복사할 데이터를{br}골라 주세요{end},
+msg_b:027,파일 복사·삭제,시스템,"どこにコピーしますか？
+コピーさきをえらんでください","Choose a file to copy
+the data to.","어디에 복사하시겠습니까?
+복사할 곳을 골라 주세요",distribution_eligible,2,파일 선택·삭제,128,124,4,어디에 복사하시겠습니까?{br}복사할 곳을 골라 주세요{end},여유 적음(4px)
+msg_b:028,파일 복사·삭제,시스템,"コピーさきにデータがありますが
+よろしいですか？
+　　　　　はい　　 　いいえ","OK to copy over
+this data？
+　　　　　Yes　　 　No","덮어쓸 데이터가 있습니다
+괜찮으시겠습니까?
+　　　　　예　　 　아니오",needs_review,3,파일 선택·삭제,128,122,6,덮어쓸 데이터가 있습니다{br}괜찮으시겠습니까?{br}　　　　　예　　 　아니오{end},여유 적음(6px); 재승인 대기
+msg_b:029,파일 복사·삭제,시스템,どのデータを　けしますか？,"Choose a data file to
+erase.",삭제할 데이터를 고르세요,needs_review,1,파일 선택·삭제,128,112,16,지울 데이터를 고르세요{end},여유 적음(16px); 재승인 대기
+msg_b:030,파일 복사·삭제,시스템,"このデータを
+けしてもよろしいですか？
+　　　　　はい　　 　いいえ","OK to erase this
+data file？
+　　　　　Yes　　 　No","이 데이터를
+지워도 괜찮으시겠습니까?
+　　　　　예　　 　아니오",distribution_eligible,3,파일 선택·삭제,128,124,4,이 데이터를{br}지워도 괜찮으시겠습니까?{br}　　　　　예　　 　아니오{end},여유 적음(4px)
+msg_b:031,데이터 손상 경고,시스템,"Aのセーブデータがこわれました・
+すこしまえのデータにもどします・","File A is corrupted.
+Reverting to past data.","A 데이터가 손상됐습니다
+이전 데이터로 되돌립니다",needs_review,2,파일 선택·삭제,128,122,6,A 데이터가 손상됐습니다{br}이전 데이터로 되돌립니다{end},여유 적음(6px); 재승인 대기
+msg_b:032,데이터 손상 경고,시스템,"Bのセーブデータがこわれました・
+すこしまえのデータにもどします・","File B is corrupted.
+Reverting to past data.","B 데이터가 손상됐습니다
+이전 데이터로 되돌립니다",needs_review,2,파일 선택·삭제,128,122,6,B 데이터가 손상됐습니다{br}이전 데이터로 되돌립니다{end},여유 적음(6px); 재승인 대기
+msg_b:033,데이터 손상 경고,시스템,"Cのセーブデータがこわれました・
+すこしまえのデータにもどします・","File C is corrupted.
+Reverting to past data.","C 데이터가 손상됐습니다
+이전 데이터로 되돌립니다",needs_review,2,파일 선택·삭제,128,122,6,C 데이터가 손상됐습니다{br}이전 데이터로 되돌립니다{end},여유 적음(6px); 재승인 대기
+msg_b:034,데이터 손상 경고,시스템,"Aのセーブデータは　かんぜんに
+こわれました・しょうきょします・","File A is corrupted.
+Erasing File A...","A 데이터가 완전히
+손상되어 삭제합니다",needs_review,2,파일 선택·삭제,128,96,32,A 데이터가 완전히{br}손상되어 삭제합니다{end},재승인 대기
+msg_b:035,데이터 손상 경고,시스템,"Bのセーブデータは　かんぜんに
+こわれました・しょうきょします・","File B is corrupted.
+Erasing File B...","B 데이터가 완전히
+손상되어 삭제합니다",needs_review,2,파일 선택·삭제,128,96,32,B 데이터가 완전히{br}손상되어 삭제합니다{end},재승인 대기
+msg_b:036,데이터 손상 경고,시스템,"Cのセーブデータは　かんぜんに
+こわれました・しょうきょします・","File C is corrupted.
+Erasing File C...","C 데이터가 완전히
+손상되어 삭제합니다",needs_review,2,파일 선택·삭제,128,96,32,C 데이터가 완전히{br}손상되어 삭제합니다{end},재승인 대기
+msg_b:037,전체 삭제 확인,시스템,"すべての「サムスデータ」をけし
+しょきじょうたいにもどしますか？","OK to erase all Samus data
+and reformat save files？","모든 사무스 데이터를
+초기화하시겠습니까?",needs_review,2,파일 선택·삭제,128,128,0,모든 사무스 데이터를 지워{br}초기화하시겠습니까?{end},여유 적음(0px); 재승인 대기
+msg_b:038,전체 삭제 확인,시스템,"すべての「サムスデータ」を
+しょうきょしてもよろしいですか？","OK to erase all Samus
+save data？","모든 사무스 데이터를
+삭제하시겠습니까?",needs_review,2,파일 선택·삭제,128,102,26,모든 사무스 데이터를{br}삭제하시겠습니까?{end},재승인 대기
+msg_b:039,시작 메뉴,시스템,"つづきから
+はじめから","Continue
+New","이어서 하기
+처음부터 하기",distribution_eligible,2,시작·옵션,128,66,62,이어서 하기{br}처음부터 하기{end},
+msg_b:040,시작 메뉴,시스템,"つづきから
+はじめから
+タイムアタックモードではじめから","Continue
+New
+New Time Attack","이어서 하기
+처음부터 하기
+타임 어택 모드로 처음부터",distribution_eligible,3,시작·옵션,128,128,0,이어서 하기{br}처음부터 하기{br}타임 어택 모드로 처음부터{end},여유 적음(0px)
+msg_b:041,메시지 옵션,시스템,"メッセージは？
+　オトナむき (あり)
+　コドモむき (ひらがな)","Message Options
+  Kanji
+  Hiragana","메시지는?
+　한국어
+　한국어",distribution_eligible,3,시작·옵션,128,48,80,언어 선택{br}　한국어{br}　한국어{end},
+msg_b:042,난이도 선택,시스템,"ゲームレベル
+　EASY　　　[やさしい]
+　NORMAL[ふつう]","Difficulty Setting
+  EASY
+  NORMAL","게임 레벨
+　EASY　　　[쉬움]
+　NORMAL[보통]",distribution_eligible,3,시작·옵션,128,81,47,게임 레벨{br}　EASY　　　[쉬움]{br}　NORMAL{x:02}[보통]{end},
+msg_b:043,난이도 선택,시스템,"ゲームレベル
+　EASY　　　[やさしい]
+　NORMAL[ふつう]
+　HARD　　[むずかしい]","Difficulty Level
+  EASY
+  NORMAL
+  HARD","게임 레벨
+　EASY　　　[쉬움]
+　NORMAL[보통]
+　HARD　　[어려움]",distribution_eligible,4,시작·옵션,128,91,37,게임 레벨{br}　EASY　　　[쉬움]{br}　NORMAL{x:02}[보통]{br}　HARD　　{x:05}[어려움]{end},
+msg_b:044,전체 삭제 확인,시스템,"これまでのセーブデータは　きえて
+しまいます・よろしいですか？
+(   はきえません)
+　　　　はい     いいえ","OK to erase all saved
+data？
+(   will not be erased.)
+　　　　Yes     No","지금까지의 데이터가
+사라집니다. 괜찮습니까?
+(   는 남습니다)
+　　　　예     아니오",needs_review,4,시작·옵션,128,118,10,지금까지의 데이터가{br}사라집니다. 괜찮습니까?{br}(   는 남습니다){br}　　　　예     아니오{end},여유 적음(10px); 재승인 대기
+msg_b:045,통신(퓨전 연동),시스템,"つうしんちゅうです・
+しばらくおまちください・","Linking...
+Please wait a moment.","통신 중입니다.
+잠시만 기다려 주세요.",distribution_eligible,2,통신,200,106,94,통신 중입니다.{br}잠시만 기다려 주세요.{end},
+msg_b:046,통신(퓨전 연동),시스템,"メトロイドフュージョンの
+カートリッジが
+みつかりませんでした・","Unable to detect a
+Metroid Fusion
+Game Pak.","메트로이드 퓨전의
+카트리지를
+찾을 수 없었습니다.",distribution_eligible,3,통신,200,96,104,메트로이드 퓨전의{br}카트리지를{br}찾을 수 없었습니다.{end},
+msg_b:047,통신(퓨전 연동),시스템,つうしんエラーです,Linking error.,통신 에러입니다,distribution_eligible,1,통신,200,76,124,통신 에러입니다{end},
+msg_b:048,통신(퓨전 연동),시스템,"ほんたいの　でんげんをきり、
+つうしんケーブルの　せつぞくを
+たしかめて、さいしょから
+やりなおしてください・","Turn the system OFF
+and confirm that the
+Game Link cable is
+properly connected.","본체의 전원을 끄고,
+통신 케이블의 연결을
+확인한 뒤, 처음부터
+다시 해 주세요.",distribution_eligible,4,통신,200,102,98,본체의 전원을 끄고{br}통신 케이블의 연결을{br}확인한 뒤 처음부터{br}다시 해 주세요.{end},
+msg_b:049,통신(퓨전 연동),시스템,"でんげんを
+きらないでください・","Do not turn the
+POWER OFF.","전원을
+끄지 말아 주세요.",distribution_eligible,2,통신,200,86,114,전원을{br}끄지 말아 주세요.{end},
+msg_b:050,통신(퓨전 연동),시스템,"よみこみが　しゅうりょう
+しました・","Data upload
+complete.","읽어들이기가 종료
+되었습니다.",distribution_eligible,2,통신,200,86,114,읽어들이기가 종료{br}되었습니다.{end},
+msg_b:051,통신(퓨전 연동),시스템,つうしんがおわりました・でんげんをきってください・,Link complete. You may turn POWER OFF.,통신이 끝났습니다. 전원을 꺼 주세요.,distribution_eligible,1,통신,200,182,18,통신이 끝났습니다. 전원을 꺼 주세요.{end},
+msg_b:052,기록 표시,화면 표시,ベストタイム,Best Time,베스트 타임,distribution_eligible,1,통신,200,56,144,{x:18}베스트 타임{end},
+msg_b:053,기록 표시,화면 표시,100%ベストタイム,Best Time (100%),100% 베스트 타임,distribution_eligible,1,통신,200,89,111,{x:0A}100% 베스트 타임{end},
+msg_b:054,통신(퓨전 연동),시스템,"ID
+パスワード","ID
+Password","ID
+패스워드",distribution_eligible,2,통신,200,40,160,ID{br}패스워드{end},
+msg_b:055,통신 오류,시스템,"タイムアタックちゅうの　データは
+コピーできません","You can't copy
+Time Attack data.","타임 어택 중인 데이터는
+복사할 수 없습니다",distribution_eligible,2,통신,200,118,82,타임 어택 중인 데이터는{br}복사할 수 없습니다{end},
+msg_b:056,통신 오류,시스템,つうしんエラーです・やりなおしてください・,Linking error. Try again.,통신 에러입니다. 다시 해 주세요.,distribution_eligible,1,통신,200,162,38,통신 에러입니다. 다시 해 주세요.{end},
+msg_b:057,통신 오류,시스템,"つうしんエラーです・
+せつぞくがただしくありません・
+せつぞくをかくにんして
+やりなおしてください・","A linking error has
+occurred. Please
+check the connection
+and try again.","통신 에러입니다.
+연결이 올바르지 않습니다.
+연결을 확인한 뒤
+다시 해 주세요.",distribution_eligible,4,통신,200,126,74,통신 에러입니다.{br}연결이 올바르지 않습니다.{br}연결을 확인한 뒤{br}다시 해 주세요.{end},
+msg_b:058,해금 알림,시스템,"OPTIONS　[オプション]　に
+「ギャラリー」が
+ついかされました・","Gallery has been
+added to the
+OPTIONS screen.","OPTIONS　[옵션]　에
+「갤러리」가
+추가되었습니다.",distribution_eligible,3,해금 알림,117,99,18,{c:06}OPTIONS　[옵션]　{c:00}에{br}{c:05}「갤러리」{c:00}가{br}추가되었습니다.{end},
+msg_b:059,해금 알림,시스템,"OPTIONS　[オプション]　に
+「タイムアタックレコード」が
+ついかされました・","Time Attack Records
+has been added to
+the OPTIONS screen.","OPTIONS　[옵션]　에
+「타임 어택 레코드」가
+추가되었습니다.",distribution_eligible,3,해금 알림,117,108,9,{c:06}OPTIONS　[옵션]　{c:00}에{br}{c:05}「타임 어택 레코드」{c:00}가{br}추가되었습니다.{end},여유 적음(9px)
+msg_b:060,해금 알림,시스템,"OPTIONS　[オプション]　に
+「サウンドテスト」が
+ついかされました・","Sound Test has
+been added to the
+OPTIONS screen.","OPTIONS　[옵션]　에
+「사운드 테스트」가
+추가되었습니다.",distribution_eligible,3,해금 알림,117,99,18,{c:06}OPTIONS　[옵션]　{c:00}에{br}{c:05}「사운드 테스트」{c:00}가{br}추가되었습니다.{end},
+msg_b:061,해금 알림,시스템,"OPTIONS　[オプション]　に
+「オリジナルメトロイド」が
+ついかされました・","Original Metroid has
+been added to the
+OPTIONS screen.","OPTIONS　[옵션]　에
+오리지널 메트로이드가
+추가되었습니다.",needs_review,3,해금 알림,117,106,11,{c:06}OPTIONS　[옵션]　{c:00}에{br}{c:05}오리지널 메트로이드{c:00}가{br}추가되었습니다.{end},여유 적음(11px); 재승인 대기

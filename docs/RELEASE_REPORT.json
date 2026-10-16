@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "release_stage": "release",
+  "status": "PASS: patch reverse-verified and apply helper tested",
+  "distribution_policy": "single ROM patch, Japan revision only, same 8MiB size as source",
+  "contains_original_game_files": false,
+  "release_date": "20260824",
+  "supersedes": "20260822 (monologue and item-description commas trimmed; msg_b:041 relabelled)",
+  "patches": [
+    {
+      "id": "JP",
+      "rom": "Metroid - Zero Mission (Japan).gba",
+      "platform": "Game Boy Advance",
+      "patch": "MetroidZeroMission_KR_20260824.xdelta",
+      "patch_size": 22452,
+      "patch_sha256": "bfd3f85da26d4be7eaaabbde18a2d7fc4684a3ec96fec6c7fb830114ca33edf2",
+      "source_size": 8388608,
+      "source_sha256": "d087ca6e2d1808109a579c2283e944d81c8426d37de564f99ea9273087c2172a",
+      "target_size": 8388608,
+      "target_sha256": "944d2eee3afa7c407624e4c810f48c1ed69e310b5e1c9c58f2aee8091aa97d57",
+      "changed_bytes": 46300,
+      "reverse_verification": "PASS"
+    }
+  ],
+  "coverage": {
+    "runtime_messages_translated": 127,
+    "runtime_messages_total": 127,
+    "hangul_glyphs_installed": 299,
+    "graphics_assets_translated": [
+      "title_logo",
+      "file_select",
+      "options",
+      "save_summary",
+      "map_ui",
+      "map_area_labels",
+      "area_name_plates",
+      "area_entry_banner",
+      "status_items",
+      "late_items",
+      "gameover",
+      "delete_confirm",
+      "link_screens"
+    ],
+    "kept_original": [
+      "staff_credits",
+      "intro_english_caption",
+      "file_select_latin_labels",
+      "unknown_item_name"
+    ],
+    "language_modes_covered": [
+      "kanji",
+      "hiragana"
+    ]
+  },
+  "verification": {
+    "build_gates": "PASS: 6/6 (text roundtrip 381, token bijection, layout formula, obj/map/comm graphics)",
+    "emulator": "Mesen 2: title (both palette phases), file select, options, intro subtitles, map screen incl. area labels in kanji and hiragana modes, status screen, game over",
+    "not_verified_on_screen": [
+      "link_screens (needs link cable or Metroid Fusion cartridge)",
+      "delete_confirm (render-verified only)"
+    ],
+    "hardware": "not applicable (unmodified GBA cartridge layout, SRAM save unchanged)"
+  }
+}

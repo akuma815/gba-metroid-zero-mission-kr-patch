@@ -1,0 +1,486 @@
+{
+  "date": "2026-10-16",
+  "project": "메트로이드 제로 미션",
+  "files": [
+    {
+      "path": "docs/HANDOFF_2026-08-17.md",
+      "source": "docs/HANDOFF_2026-08-17.md",
+      "bytes": 18759,
+      "sha256": "8355232e676f08d14d527a869d0f8d92421848d512c34a0c3147f9e86f83641d"
+    },
+    {
+      "path": "workspace/config/source_rom.json",
+      "source": "workspace/config/source_rom.json",
+      "bytes": 402,
+      "sha256": "dc9cf9080dc33f7393e37e5e39fee00634a3a6598ba67e77b07b7b48b19543e1"
+    },
+    {
+      "path": "workspace/font/ascii_sheet.index.txt",
+      "source": "workspace/font/ascii_sheet.index.txt",
+      "bytes": 151,
+      "sha256": "f92345ddeeef12eebcf48815d4fce9e5c661d1bf657476b21b64fc14f22ac3a1"
+    },
+    {
+      "path": "workspace/font/c2c0_sheet.index.txt",
+      "source": "workspace/font/c2c0_sheet.index.txt",
+      "bytes": 69,
+      "sha256": "a1af3752ac636e528bfb1e6a980282650bd3d469cdfc8a59d1714b2f5520a355"
+    },
+    {
+      "path": "workspace/font/code400_sheet.index.txt",
+      "source": "workspace/font/code400_sheet.index.txt",
+      "bytes": 69,
+      "sha256": "874577a0aba17f60746b342b3c1866d07c61ef0ce3d425e50b82ea360947bad3"
+    },
+    {
+      "path": "workspace/font/dakuten_sheet.index.txt",
+      "source": "workspace/font/dakuten_sheet.index.txt",
+      "bytes": 69,
+      "sha256": "7bbf32b5854c13449de1a37d1fb0403c67be1509d71baee46e02c7038266c996"
+    },
+    {
+      "path": "workspace/font/hira_sheet.index.txt",
+      "source": "workspace/font/hira_sheet.index.txt",
+      "bytes": 123,
+      "sha256": "a1849d8ee1b1bf65ea239cce1bef3614afb6f52c1fed21b0c1f5810e26859f8d"
+    },
+    {
+      "path": "workspace/font/icon_sheet.index.txt",
+      "source": "workspace/font/icon_sheet.index.txt",
+      "bytes": 69,
+      "sha256": "460a66e4cf03beb1998406e4a0021c8ab2472b349635092dffce9c9d3eb29a28"
+    },
+    {
+      "path": "workspace/font/kana_sheet.index.txt",
+      "source": "workspace/font/kana_sheet.index.txt",
+      "bytes": 178,
+      "sha256": "4add29995ffe3769a0ad47c6b3482de2a8c7efc3f628436ad329b7877e686819"
+    },
+    {
+      "path": "workspace/font/kanji_sheet.index.txt",
+      "source": "workspace/font/kanji_sheet.index.txt",
+      "bytes": 96,
+      "sha256": "358bd5a32439a8f07676d70170946e596b5ec586dcd42c1c8f18ff0817ee8ea5"
+    },
+    {
+      "path": "workspace/scripts/alloc_from_batch.py",
+      "source": "workspace/scripts/alloc_from_batch.py",
+      "bytes": 1977,
+      "sha256": "aff3b9da59c6bc5378708e694eabcd2c0fe4d5ef58afe95ec66ec9f605dac098"
+    },
+    {
+      "path": "workspace/scripts/apply_translation.py",
+      "source": "workspace/scripts/apply_translation.py",
+      "bytes": 3862,
+      "sha256": "72b5225b8a6366fd3659b0e645d7fba86af135d1a68bbbef15dcc78a44bfe69b"
+    },
+    {
+      "path": "workspace/scripts/approve.py",
+      "source": "workspace/scripts/approve.py",
+      "bytes": 2370,
+      "sha256": "4d021faad7fb8d720d7da14bad45613f54e083a5b214d18f5c8127469fe675f0"
+    },
+    {
+      "path": "workspace/scripts/bitmap_font.py",
+      "source": "workspace/scripts/bitmap_font.py",
+      "bytes": 4091,
+      "sha256": "8f454836d14836a6c61f5522d05864e8b499742e018bf3965ecc19695655d304"
+    },
+    {
+      "path": "workspace/scripts/build.py",
+      "source": "workspace/scripts/build.py",
+      "bytes": 19692,
+      "sha256": "a5a412b1129349a675a9705d81034a1c921b693687f1d4c9d9ab20dd877839d2"
+    },
+    {
+      "path": "workspace/scripts/charmap.py",
+      "source": "workspace/scripts/charmap.py",
+      "bytes": 6575,
+      "sha256": "a195ac71b65a36cc9a33aeefd13141401479a7443e90ef3693f2dfe9fe04b534"
+    },
+    {
+      "path": "workspace/scripts/comm_gfx.py",
+      "source": "workspace/scripts/comm_gfx.py",
+      "bytes": 5339,
+      "sha256": "ed7f70c86be8024097d201a4419f04ec1a987bcb04751d3b68a3ea85c3fafc3f"
+    },
+    {
+      "path": "workspace/scripts/confirm_gfx.py",
+      "source": "workspace/scripts/confirm_gfx.py",
+      "bytes": 5294,
+      "sha256": "7b515bc2d710949261f57a4ff93c356e10b375824d398a00a020fec28fc0d2ba"
+    },
+    {
+      "path": "workspace/scripts/dump_font_sheet.py",
+      "source": "workspace/scripts/dump_font_sheet.py",
+      "bytes": 3079,
+      "sha256": "32ea7040c86ed44a5455e0876854d3340c109bbf992bef8d9fba715cf3d964b5"
+    },
+    {
+      "path": "workspace/scripts/export_csv.py",
+      "source": "workspace/scripts/export_csv.py",
+      "bytes": 5950,
+      "sha256": "00d69e22d348c04f483c041bad74c06c270b7e3eb275fc20c8d23e7eef67a620"
+    },
+    {
+      "path": "workspace/scripts/export_terms.py",
+      "source": "workspace/scripts/export_terms.py",
+      "bytes": 3296,
+      "sha256": "cdd7237e6b38dd7d4a4fe3a313aa1ff43653eaa12acecdccf6810552404c84cf"
+    },
+    {
+      "path": "workspace/scripts/extract_text.py",
+      "source": "workspace/scripts/extract_text.py",
+      "bytes": 4693,
+      "sha256": "497fe891fbb6df324c0463e7aab364e211da13775364666257ab40f79f501582"
+    },
+    {
+      "path": "workspace/scripts/hangul_alloc.py",
+      "source": "workspace/scripts/hangul_alloc.py",
+      "bytes": 3463,
+      "sha256": "0a04dc76c91de6b8730bd9143e00e30fd08b3e44d9795e84aed60767a508f9e1"
+    },
+    {
+      "path": "workspace/scripts/hangul_glyph.py",
+      "source": "workspace/scripts/hangul_glyph.py",
+      "bytes": 5354,
+      "sha256": "a60e01f8adebae9637002da6f57a2c6d242e2ea58530088ed2a59bb277cb1f6a"
+    },
+    {
+      "path": "workspace/scripts/layout.py",
+      "source": "workspace/scripts/layout.py",
+      "bytes": 4905,
+      "sha256": "6e6a88e7749d27499cc255f648904d4cc79efa130d628af338f53e6e69a78255"
+    },
+    {
+      "path": "workspace/scripts/link_save.py",
+      "source": "workspace/scripts/link_save.py",
+      "bytes": 3583,
+      "sha256": "9fd5e0eaa053696e402b828376569e26f26f0f3ef32df61835a617961807d5d3"
+    },
+    {
+      "path": "workspace/scripts/lz77.py",
+      "source": "workspace/scripts/lz77.py",
+      "bytes": 4578,
+      "sha256": "af1b454d4b488383dabfc6bb16aed1eb79a88fe7b75c3e3fe0c8938d370046b1"
+    },
+    {
+      "path": "workspace/scripts/make_ledger.py",
+      "source": "workspace/scripts/make_ledger.py",
+      "bytes": 4347,
+      "sha256": "06cfed4f4caceb56fd0d2b9d878ee9a0f29cd0d9b129514bf7a020b6648cf331"
+    },
+    {
+      "path": "workspace/scripts/map_gfx.py",
+      "source": "workspace/scripts/map_gfx.py",
+      "bytes": 11682,
+      "sha256": "b4f5eb7afb5ffe792942d521bf65af181a1bb3ae5a2dcf6e6a02aaa71ce04eab"
+    },
+    {
+      "path": "workspace/scripts/menu_gfx.py",
+      "source": "workspace/scripts/menu_gfx.py",
+      "bytes": 10220,
+      "sha256": "76527f9c722b875c1b24ad8e1cbf478821bf1c66759996da21e73601f3531208"
+    },
+    {
+      "path": "workspace/scripts/obj_gfx.py",
+      "source": "workspace/scripts/obj_gfx.py",
+      "bytes": 14890,
+      "sha256": "a26cdbe9adb118c8eb42d40eb1119f6cd4fafbf0cfdd8fc6425ea4240b1d3abf"
+    },
+    {
+      "path": "workspace/scripts/poc_hangul.py",
+      "source": "workspace/scripts/poc_hangul.py",
+      "bytes": 5251,
+      "sha256": "694eeb784632ef3cb6d20b41b009a006535ccdb920c591db93c33092bf8f6114"
+    },
+    {
+      "path": "workspace/scripts/poc_visibility.py",
+      "source": "workspace/scripts/poc_visibility.py",
+      "bytes": 2068,
+      "sha256": "6d6a081356185e2b00cee5a8ba67e1325af18be5790fa1f089aea11916165d9c"
+    },
+    {
+      "path": "workspace/scripts/rombuild.py",
+      "source": "workspace/scripts/rombuild.py",
+      "bytes": 3955,
+      "sha256": "70b3487dfb181b1d9cfdcbc6bca1283adb1a1e99b92a3b8a9731959db07663b4"
+    },
+    {
+      "path": "workspace/scripts/run_dump.py",
+      "source": "workspace/scripts/run_dump.py",
+      "bytes": 2264,
+      "sha256": "bd9c9a37b807291d1eff87bd91d405ed50000aa38df3c108dcb8554922917343"
+    },
+    {
+      "path": "workspace/scripts/run_mesen.py",
+      "source": "workspace/scripts/run_mesen.py",
+      "bytes": 2734,
+      "sha256": "39a667eda68cd674c28d7faa95decd4a029d53462d2730cf89c734a61af5adc2"
+    },
+    {
+      "path": "workspace/scripts/run_probe.py",
+      "source": "workspace/scripts/run_probe.py",
+      "bytes": 1682,
+      "sha256": "eb324fb15103088edf327f8076eecc978a021a1d42a48dd059ae99e703fc1c49"
+    },
+    {
+      "path": "workspace/scripts/run_qa.py",
+      "source": "workspace/scripts/run_qa.py",
+      "bytes": 2740,
+      "sha256": "0483fb77a0e6e1a2704136e3be0d1d53e96abbdf1224ef722394926890d2492f"
+    },
+    {
+      "path": "workspace/scripts/run_state.py",
+      "source": "workspace/scripts/run_state.py",
+      "bytes": 2428,
+      "sha256": "ffc5b0b13362fc9a88f5f56bbf3fe8cc67918ca2667eef1b4434395756fee145"
+    },
+    {
+      "path": "workspace/scripts/title_gfx.py",
+      "source": "workspace/scripts/title_gfx.py",
+      "bytes": 3511,
+      "sha256": "cf39a749eec3e06cbf823076a4bae0b8c778282bd0feef73395cf95c7f06f289"
+    },
+    {
+      "path": "workspace/scripts/tokens.py",
+      "source": "workspace/scripts/tokens.py",
+      "bytes": 3502,
+      "sha256": "54633a88906c4a76100a20b3404a5ea3f0240b089de74f38ed83afd37e4e8bbb"
+    },
+    {
+      "path": "workspace/tests/boot_capture.lua",
+      "source": "workspace/tests/boot_capture.lua",
+      "bytes": 993,
+      "sha256": "c667785441cb23698d0dc9f0269be4f708e6f44e092e35c20ed42f708b0ea85c"
+    },
+    {
+      "path": "workspace/tests/cheat_invincible.lua",
+      "source": "workspace/tests/cheat_invincible.lua",
+      "bytes": 2221,
+      "sha256": "fceab67ac3f0cc130bad78282bbb3a8c28e798440d7e9493f6ed0baa2b14eafd"
+    },
+    {
+      "path": "workspace/tests/cheat_map_labels.lua",
+      "source": "workspace/tests/cheat_map_labels.lua",
+      "bytes": 3283,
+      "sha256": "ffa9b67473a252b39865753c5f503f1d632816a1562ad4fefa61c365d918c0cd"
+    },
+    {
+      "path": "workspace/tests/cheat_map_reveal_all.lua",
+      "source": "workspace/tests/cheat_map_reveal_all.lua",
+      "bytes": 1875,
+      "sha256": "6ecdf613c25e6fb9d8c25fbe42374ff34b21cac6b5cbad0fe16af31810956e15"
+    },
+    {
+      "path": "workspace/tests/dump_current_screen.lua",
+      "source": "workspace/tests/dump_current_screen.lua",
+      "bytes": 3531,
+      "sha256": "148e0218f954aa2558ed3d3704b55fe79e3891f592b2e4b1ff91e8fd305fac53"
+    },
+    {
+      "path": "workspace/tests/probe_api.lua",
+      "source": "workspace/tests/probe_api.lua",
+      "bytes": 652,
+      "sha256": "a25f33eac7562e40615e8a460c917bfd6841ea799ea2806990782bc4f09b3333"
+    },
+    {
+      "path": "workspace/tests/probe_bgmap.lua",
+      "source": "workspace/tests/probe_bgmap.lua",
+      "bytes": 2313,
+      "sha256": "dc85c557c40c030425f16605a41dc320c5d96215d20b18ad5b22951d2acae261"
+    },
+    {
+      "path": "workspace/tests/probe_color_test.lua",
+      "source": "workspace/tests/probe_color_test.lua",
+      "bytes": 1216,
+      "sha256": "179cf29d7dd1bb2ad265055b73bc260efdb9546f3b097a6b9d15122783e72d63"
+    },
+    {
+      "path": "workspace/tests/probe_font_addr.lua",
+      "source": "workspace/tests/probe_font_addr.lua",
+      "bytes": 1736,
+      "sha256": "15ca73442cdd862470d4da9d00b8980da9f28108bd94d1ed316577c8f4931c42"
+    },
+    {
+      "path": "workspace/tests/probe_font_read.lua",
+      "source": "workspace/tests/probe_font_read.lua",
+      "bytes": 1595,
+      "sha256": "6fe0d04f553073528810bfdb8a0aa1a67953949078fbeae22212a97792b0b833"
+    },
+    {
+      "path": "workspace/tests/probe_frame_dump.lua",
+      "source": "workspace/tests/probe_frame_dump.lua",
+      "bytes": 2682,
+      "sha256": "cae46437659520654e3da59bc1316967750c890a613f92a5c14448b256eb9f4c"
+    },
+    {
+      "path": "workspace/tests/probe_input.lua",
+      "source": "workspace/tests/probe_input.lua",
+      "bytes": 1373,
+      "sha256": "b5a4bb210f249a84c0c2715b90bc378af87a34a2300c0f3f007b070e6d166ecb"
+    },
+    {
+      "path": "workspace/tests/probe_map.lua",
+      "source": "workspace/tests/probe_map.lua",
+      "bytes": 2427,
+      "sha256": "05bf9159b38247128a1e50ed8d25f95754d20925328f44c437c007b1b421195d"
+    },
+    {
+      "path": "workspace/tests/probe_menu_font2.lua",
+      "source": "workspace/tests/probe_menu_font2.lua",
+      "bytes": 1732,
+      "sha256": "2924f0b69c647dbc29b9d18971b897d2e4ac2781cbea4ad1bb87afb3bb74cc19"
+    },
+    {
+      "path": "workspace/tests/probe_menu_pal.lua",
+      "source": "workspace/tests/probe_menu_pal.lua",
+      "bytes": 1228,
+      "sha256": "0905ddbe342dc14f85196378f2a2c3b3188f568816a30b581694c609ea6283c6"
+    },
+    {
+      "path": "workspace/tests/probe_menu_src.lua",
+      "source": "workspace/tests/probe_menu_src.lua",
+      "bytes": 1627,
+      "sha256": "72813675c30b569b73abaf0fb85491aab72ac7ab44c3373138b22b711de5b576"
+    },
+    {
+      "path": "workspace/tests/probe_menu_vram.lua",
+      "source": "workspace/tests/probe_menu_vram.lua",
+      "bytes": 1396,
+      "sha256": "42e5b2633f892ac55bad597a7630d25410ddd9e7a8832e047e7d0dcaa95ed23b"
+    },
+    {
+      "path": "workspace/tests/probe_openmap.lua",
+      "source": "workspace/tests/probe_openmap.lua",
+      "bytes": 1920,
+      "sha256": "6d5e0d36385c942a1648515a95a7a19a25dbfd9d9b93cfeab8756f00ae50b95d"
+    },
+    {
+      "path": "workspace/tests/probe_palette.lua",
+      "source": "workspace/tests/probe_palette.lua",
+      "bytes": 1243,
+      "sha256": "17627ce96f75b2c51061142dc7a32e4c737439c1f6b5d27e102580f464d2cd60"
+    },
+    {
+      "path": "workspace/tests/probe_setinput.lua",
+      "source": "workspace/tests/probe_setinput.lua",
+      "bytes": 1336,
+      "sha256": "9c12b47d0ecf454f531995fea4767033300fd8209e4796f06b4fdcca85135d1c"
+    },
+    {
+      "path": "workspace/tests/probe_show_obj.lua",
+      "source": "workspace/tests/probe_show_obj.lua",
+      "bytes": 5500,
+      "sha256": "4ab17d8db4f9a19ccb4fdd660161acd311f5357ba803ca6255c0de5d274cd0bd"
+    },
+    {
+      "path": "workspace/tests/probe_state_map.lua",
+      "source": "workspace/tests/probe_state_map.lua",
+      "bytes": 2986,
+      "sha256": "8a845c5a2cf658dcd1306992e43b93c14f8648dbb0fb271a9631b2a70ecd0010"
+    },
+    {
+      "path": "workspace/tests/qa_menu.lua",
+      "source": "workspace/tests/qa_menu.lua",
+      "bytes": 1296,
+      "sha256": "ce65928cb5553199806037c6dddd891abf8bac3ae1491077b330a0c650eac1db"
+    },
+    {
+      "path": "workspace/tests/test_comm_gfx.py",
+      "source": "workspace/tests/test_comm_gfx.py",
+      "bytes": 2743,
+      "sha256": "65a45b048d818fe63a90ff4c155574e3d3859f1d92a22e0b9550115375439929"
+    },
+    {
+      "path": "workspace/tests/test_layout.py",
+      "source": "workspace/tests/test_layout.py",
+      "bytes": 1830,
+      "sha256": "a0ebef8dae006d037e104466664b918d3beb0288e62b00bb11f9cba1d8d86228"
+    },
+    {
+      "path": "workspace/tests/test_map_gfx.py",
+      "source": "workspace/tests/test_map_gfx.py",
+      "bytes": 4993,
+      "sha256": "f1172a5efff33474dd27406f4da91c6838a29d41a59922ffbf14a2e1e196e538"
+    },
+    {
+      "path": "workspace/tests/test_obj_gfx.py",
+      "source": "workspace/tests/test_obj_gfx.py",
+      "bytes": 9172,
+      "sha256": "afdff3dbd85e75714ff41758a51d25af39a370a52db273d02d4aedb7c73bfba1"
+    },
+    {
+      "path": "workspace/tests/test_roundtrip.py",
+      "source": "workspace/tests/test_roundtrip.py",
+      "bytes": 3576,
+      "sha256": "4e16c1f28920096485ba558a3b691f335f7c1e24990dc175d49c85cc3101b9b4"
+    },
+    {
+      "path": "workspace/tests/test_tokens.py",
+      "source": "workspace/tests/test_tokens.py",
+      "bytes": 1405,
+      "sha256": "c8dd701550538b638b575ccfb5acb6c38e54a79182148dfe4b570dee2239c9c4"
+    },
+    {
+      "path": "workspace/tests/validate_translation.py",
+      "source": "workspace/tests/validate_translation.py",
+      "bytes": 5081,
+      "sha256": "07d3d223a4b26aecebdc42e557788a6261d6dbdb1022661368b68bc5e11cfb2a"
+    },
+    {
+      "path": "workspace/tests/verify_approval.py",
+      "source": "workspace/tests/verify_approval.py",
+      "bytes": 2016,
+      "sha256": "aace847c4130b4acf620cd0997200a8730e4e70e0cc97644fe5a08d7036e7bf5"
+    },
+    {
+      "path": "workspace/text/translation/glossary.csv",
+      "source": "workspace/text/translation/glossary.csv",
+      "bytes": 5257,
+      "sha256": "24a342c5d20f99c2b1e0e307dff30775f6686060b8207ab7b4c5be7c0b7dc7ca"
+    },
+    {
+      "path": "workspace/text/translation/glossary.json",
+      "source": "workspace/text/translation/glossary.json",
+      "bytes": 11509,
+      "sha256": "2687c066160ce979108a33bc23e80ed18869a38770d1575b6a4bdec2008bfba9"
+    },
+    {
+      "path": "workspace/text/translation/hangul_codes.json",
+      "source": "workspace/text/translation/hangul_codes.json",
+      "bytes": 6235,
+      "sha256": "7e1aa1890de28e761938e4a159e7abfd8f6a375231243694bd50f75c5873f8df"
+    },
+    {
+      "path": "workspace/text/translation/ko.json",
+      "source": "workspace/text/translation/ko.json",
+      "bytes": 311067,
+      "sha256": "d2c6feaf6147d90ce773730da5b99c87311588b41195c45b98d0b96e8437fbda"
+    },
+    {
+      "path": "workspace/text/translation/review.csv",
+      "source": "workspace/text/translation/review.csv",
+      "bytes": 41277,
+      "sha256": "e220a2872945d1f24fbcf76b7c701c2c89c05c962d2795dcc3094bd681cc3049"
+    },
+    {
+      "path": "workspace/text/translation/scope_exceptions.json",
+      "source": "workspace/text/translation/scope_exceptions.json",
+      "bytes": 26131,
+      "sha256": "4bdee2760b4c3f9c430f09dc56b9ed23cc8c282d58ebd7aa07f1393c92fd187f"
+    },
+    {
+      "path": "workspace/text/translation/term_usage.csv",
+      "source": "workspace/text/translation/term_usage.csv",
+      "bytes": 4266,
+      "sha256": "95d6f7658e1b3b17d0b20e927e8dc2ffbbece4374fabbb9351194852dfa1b1bc"
+    },
+    {
+      "path": "docs/PROJECT_NOTES.md",
+      "source": "README.md",
+      "bytes": 2561,
+      "sha256": "5c9c5c8b5e4d1e0062d3710578ad5269b2351a4890dd8b3ab7169e58a2bacf75"
+    }
+  ]
+}

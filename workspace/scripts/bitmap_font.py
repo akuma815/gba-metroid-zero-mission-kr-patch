@@ -10,10 +10,11 @@
 8px 를 꽉 채우므로(work/menu_glyph_spec.py) 같은 방식으로 셀 경계에서 잘라 쓴다.
 """
 from pathlib import Path
+import os
 
 from PIL import Image
 
-FONT_DIR = Path(r"G:\Downloads\Korean Traslate Project\Font")
+FONT_DIR = Path(os.environ.get("MZM_FONT_DIR", r"G:\Downloads\Korean Traslate Project\Font"))
 HANGUL_BASE = 0xAC00
 HANGUL_COUNT = 11172
 

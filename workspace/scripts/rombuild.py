@@ -10,10 +10,11 @@
 from __future__ import annotations
 
 import hashlib
+import os
 from pathlib import Path
 
 PROJECT = Path(__file__).resolve().parents[2]
-SOURCE_ROM = PROJECT / "original" / "Metroid - Zero Mission (Japan).gba"
+SOURCE_ROM = Path(os.environ.get("MZM_SOURCE_ROM", str(PROJECT / "original" / "Metroid - Zero Mission (Japan).gba")))
 SOURCE_SHA256 = "d087ca6e2d1808109a579c2283e944d81c8426d37de564f99ea9273087c2172a"
 ROM_SIZE = 8388608
 

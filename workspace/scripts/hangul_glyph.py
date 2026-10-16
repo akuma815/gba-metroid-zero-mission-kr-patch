@@ -13,7 +13,8 @@ from pathlib import Path
 
 from PIL import Image, ImageFont
 
-FONT_DIR = Path(r"G:\Downloads\Korean Traslate Project\Font")
+import os
+FONT_DIR = Path(os.environ.get("MZM_FONT_DIR", r"G:\Downloads\Korean Traslate Project\Font"))
 
 
 def ink_bitmap(ch: str, ttf: str, size: int) -> list[list[int]]:

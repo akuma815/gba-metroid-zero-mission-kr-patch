@@ -32,3 +32,6 @@ __pycache__/
 *.utoc
 *.uasset
 *.uexp
+
+# Regenerated directly from the separately supplied original ROM
+workspace/text/source/messages.json

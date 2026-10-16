@@ -1,0 +1,10 @@
+{
+  "source_sha256": "d087ca6e2d1808109a579c2283e944d81c8426d37de564f99ea9273087c2172a",
+  "title_sha256": "0e3afeada2676effd3c3a486eed5b2b5e9e306dec095b7b8e6ddebc14607c264",
+  "external_fonts": {
+    "Galmuri11-Condensed_9x12.png": "07a9617723aa4edbfb18442db86419c3f2b48e4f7c6e2e33229305adca582aa1",
+    "Galmuri11-Condensed_8x12.png": "13706aa8f9c51b352689b03846432181d078a283ff79e0d2b4d27668f3161fa9",
+    "Galmuri7_8x8.png": "a2be473e22a62942164c95db60f3f5aa88a99f76b525994d194e9f5f9df387ea"
+  },
+  "expected_final_sha256": "944d2eee3afa7c407624e4c810f48c1ed69e310b5e1c9c58f2aee8091aa97d57"
+}

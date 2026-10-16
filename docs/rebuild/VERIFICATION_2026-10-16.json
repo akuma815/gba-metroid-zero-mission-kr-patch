@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "game": "Metroid - Zero Mission",
+  "sourceSHA256": "d087ca6e2d1808109a579c2283e944d81c8426d37de564f99ea9273087c2172a",
+  "finalSHA256": "944d2eee3afa7c407624e4c810f48c1ed69e310b5e1c9c58f2aee8091aa97d57",
+  "finalBytes": 8388608,
+  "translationMessages": 127,
+  "sourceMessages": 381,
+  "sourceRoundtripBytes": 22792,
+  "glossaryEntries": 45,
+  "staticChecksPassed": 8,
+  "sourceBuild": "PASS",
+  "freshRemoteCloneBuild": "PASS",
+  "realDownloadedApplyPS1": "PASS",
+  "downloadedReleaseSHA256": "913c6b55a9df323c0762588cc21e7e1c331424f8322705e774973c0707185b52",
+  "originalUnchanged": true,
+  "buildCommit": "6e851493b202191d7d48e275a423369af493cb8e",
+  "externalFontSheets": "3 files listed in docs/rebuild/INPUTS.json; shared Font folder retained",
+  "privateBackupRequired": false,
+  "runtimeSceneOrFullPlaythrough": "not newly performed",
+  "gameFolderDeleted": false
+}
